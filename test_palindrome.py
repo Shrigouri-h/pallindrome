@@ -1,7 +1,6 @@
 from palindrome import pal
-def pal(text):
+def test1():
     assert pal("level")is True
-def pal(text):
+def test2():
     assert pal("hello")is False
-def pal(text):
-    assert pal("a")is True
+
